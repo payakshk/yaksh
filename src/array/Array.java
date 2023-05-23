@@ -10,6 +10,7 @@ public class Array {
     public static void main(String[] args) {
         // added comment
        // added comment for fetch
+       // add comment for PUll
      /*  char[] myLetters = new char[5];
        myLetters[0]='Y';
        myLetters[1]='A';
